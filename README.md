@@ -10,6 +10,10 @@
 
 :mortar_board: I'm currently learning TDD, DDD and other cool stuff
 
+##### GitHub stats :point_down:
+![Sura's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutongww&show_icons=true)
+
+
 <!--
 **gutongww/gutongww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
