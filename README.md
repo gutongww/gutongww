@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋 I'm Sura
+
+🌱 I'm a self-taught passionate developer 
+
+##### About me
+
+:computer: Software Engineer at [Solta](https://www.soltalabs.com/)
+
+:sparkling_heart: I like eating :sushi: :rice_ball: :curry: :spaghetti: :hamburger: :custard: :watermelon: :cherries: :peach: :melon:
+
+:mortar_board: I'm currently learning TDD, DDD and other cool stuff
 
 <!--
 **gutongww/gutongww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
