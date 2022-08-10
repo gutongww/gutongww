@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Sura
+## <p align="center"> Hi there 👋 I'm Sura </p>
 
-🌱 I'm a self-taught passionate developer 
+<p align="center">  🌱 I'm a passionate developer </p>
 
 ##### About me
 
