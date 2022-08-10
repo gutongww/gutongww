@@ -10,8 +10,8 @@
 
 :mortar_board: I'm currently learning TDD, DDD and other cool stuff
 
-##### GitHub stats :point_down:
-![Sura's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutongww&show_icons=true)
+##### GitHub status :point_down:
+![Sura's GitHub status](https://github-readme-stats.vercel.app/api?username=gutongww&show_icons=true)
 
 ##### Weekly Summary
 
