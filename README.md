@@ -4,7 +4,7 @@
 
 ##### About me
 
-:computer: Software Engineer at [Solta](https://www.soltalabs.com/)
+:computer: Software Engineer at [Gentrack](https://www.gentrack.com/)
 
 :sparkling_heart: I like eating :sushi: :rice_ball: :curry: :spaghetti: :hamburger: :custard: :watermelon: :cherries: :peach: :melon:
 
